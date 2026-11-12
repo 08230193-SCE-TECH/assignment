@@ -1,0 +1,5 @@
+# Python 3.10 or newer is required.
+# After you have installed and tested the app, run:  pip freeze | findstr /i pyqt6   (Windows)
+#                                                or:  pip freeze | grep -i pyqt6     (Linux/macOS)
+# and replace the line below with the exact versions you tested (for example PyQt6==6.x.y).
+PyQt6>=6.6
